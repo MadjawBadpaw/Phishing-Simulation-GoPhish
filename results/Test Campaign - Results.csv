@@ -1,0 +1,6 @@
+id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
+CNkmq2v,Email Sent,127.0.0.1,0,0,2025-08-05T08:20:22.968284462Z,true,2025-08-05T08:30:15.082365777Z,atmaram@fakecorp.local,Atmaram,Tukaram,Intern
+vIGSfPL,Submitted Data,127.0.0.1,0,0,2025-08-05T08:20:23.283493666Z,false,2025-08-05T08:36:10.544830104Z,bhimsukh@fakecorp.local,Bhimsukh,Lal,
+m8i6BAe,Email Sent,127.0.0.1,0,0,2025-08-05T08:20:23.524809176Z,true,2025-08-05T08:36:59.331257728Z,chunilal@fakecorp.local,Chuni,Lal,Cloud apprentice
+J8axqdi,Email Sent,,0,0,2025-08-05T08:20:23.769536476Z,false,2025-08-05T08:20:23.769536476Z,durgadas@fakecorp.local,Durgadas,Shinde,cloud practitioner
+ue4QTkY,Clicked Link,127.0.0.1,0,0,2025-08-05T08:20:24.02827265Z,false,2025-08-05T08:21:37.749735751Z,ekta@fakecorp.local,Ekta,Devi,junior developer
